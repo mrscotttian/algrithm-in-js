@@ -20,7 +20,6 @@ function merge(arr1, arr2) {
         res.push(arr2[p2]);
         p2++;
     }
-    console.log(res);
     return res;
 }
 
